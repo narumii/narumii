@@ -1,4 +1,4 @@
-<img height="40" align="right" src="https://skillicons.dev/icons?i=java,kotlin,idea&theme=dark"/>
+<!--<img height="40" align="right" src="https://skillicons.dev/icons?i=java,kotlin,idea&theme=dark"/>-->
 <h2>なるみ</h2>
 
 <br>
