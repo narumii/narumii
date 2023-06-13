@@ -2,11 +2,11 @@
 <h2>なるみ</h2>
 
 <br>
-<p align="center">
+<!--<p align="center">
   <span title="Isn't she cute?">
     <img src="https://github.com/narumii/narumii/assets/57463654/a0b659ed-332e-49d5-82ed-057316279ed9"/>
   </span>
-</p>
+</p>-->
 
 <!-- 403? -->
 <br>
@@ -21,7 +21,7 @@
   </picture>
 </p>
 
-<details open align="center">
+<!--<details open align="center">
   <summary>Socials</summary>
   <a href="https://discordapp.com/users/631527275346657280">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark"/>
@@ -38,7 +38,7 @@
     <summary>Discord Server</summary>
     <a align="center" href="https://discord.gg/tRU27KtPAZ"><img src="https://discordapp.com/api/guilds/900083350314811432/widget.png?style=banner2"/></a>
   </details>
-</details>
+</details>-->
 
 <!-- Update This!!!!! -->
 <br>
