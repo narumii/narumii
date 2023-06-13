@@ -1,13 +1,14 @@
-<img height="35" src="https://skillicons.dev/icons?i=java,kotlin,idea&theme=dark"/>
+<img height="40" align="right" src="https://skillicons.dev/icons?i=java,kotlin,idea&theme=dark"/>
+<h2>なるみ</h2>
 
----
-
+<br>
 <p align="center">
   <span title="Isn't she cute?">
     <img src="https://github.com/narumii/narumii/assets/57463654/a0b659ed-332e-49d5-82ed-057316279ed9"/>
   </span>
 </p>
 
+<!-- 403? -->
 <br>
 <p align="center">
   <picture>
