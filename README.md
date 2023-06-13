@@ -1,3 +1,5 @@
+<!-- Twitter when? -->
+<h6><span title="ロリ・レイプ">ロリコン</span></h6>
 <img height="40" align="right" src="https://skillicons.dev/icons?i=java,kotlin,idea&theme=dark"/>
 <h2><span title="はあぁぁ...くそメスガキが...！！！大人を誘惑しやがって💢💢レイプ矯正が必要なんだよな...💢">なるみ</span></h2>
 
@@ -5,7 +7,8 @@
 <p align="center">
   <span title="Isn't she cute?">
     <img src="https://github.com/narumii/narumii/assets/57463654/a0b659ed-332e-49d5-82ed-057316279ed9"/>
-  </span>
+  </span><br><br>
+  <strong>❤️ ロリ (Loli) 😭<strong>
 </p>
 
 <!-- 403? -->
