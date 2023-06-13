@@ -114,4 +114,4 @@
   <a href="https://www.buymeacoffee.com/narumii"><img height="100em" src="https://count.getloli.com/get/@:なるみ?theme=rule34"/></a>
 </p>
 
-<img src="https://github.com/narumii/narumii/assets/57463654/cba93ead-06f4-4194-bd62-b33ea4b6c7f2" width="100%">
+<!--<img src="https://github.com/narumii/narumii/assets/57463654/cba93ead-06f4-4194-bd62-b33ea4b6c7f2" width="100%"> -->
