@@ -1,7 +1,7 @@
 <!-- Twitter when? -->
-<h6><span title="ロリ・レイプ">ロリコン</span></h6>
-<img height="40" align="right" src="https://skillicons.dev/icons?i=java,kotlin,idea&theme=dark"/>
-<h2><span title="はあぁぁ...くそメスガキが...！！！大人を誘惑しやがって💢💢レイプ矯正が必要なんだよな...💢">なるみ</span></h2>
+<h6><span title="ロリ・レイプ"><p align="right">ロリコン</p></span></h6>
+<img height="40" align="left" src="https://skillicons.dev/icons?i=java,kotlin,idea&theme=dark"/>
+<h1><span title="はあぁぁ...くそメスガキが...！！！大人を誘惑しやがって💢💢レイプ矯正が必要なんだよな...💢"><p align="right">なるみ</p></span></h1>
 
 <br>
 <p align="center">
