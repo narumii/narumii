@@ -1,4 +1,3 @@
-<h1><span title="Lolis 😭">なるみ</span></h1>
 <img height="35" src="https://skillicons.dev/icons?i=java,kotlin,idea&theme=dark"/>
 
 ---
